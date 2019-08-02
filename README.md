@@ -12,7 +12,7 @@ def token():
 
 	key1 = "" #API Key
 
-	key2 = "EzrFVufa6q00X6vIbanPRS0Wi84AYtrG" #Secret Key
+	key2 = "" #Secret Key
 
 	url2 = url + "&client_id=" + key1 + "&client_secret=" + key2
 
